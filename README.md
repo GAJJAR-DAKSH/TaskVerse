@@ -107,8 +107,8 @@ This project is licensed under the MIT License.
 
 **Daksh Gajjar**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/GAJJAR-DAKSH/
+- LinkedIn: nkedin.com/in/daksh-gajjar-8b498327b
 
 ---
 
