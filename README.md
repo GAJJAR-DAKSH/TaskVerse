@@ -62,16 +62,6 @@ in your preferred web browser.
 
 No additional setup or installation is required.
 
-## 📸 Screenshots
-
-Add project screenshots here after deployment.
-
-```text
-screenshots/
-├── homepage.png
-├── task-added.png
-└── completed-task.png
-```
 
 ## 🌟 Future Enhancements
 
