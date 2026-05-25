@@ -1,0 +1,86 @@
+body {
+
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+
+}
+
+.card {
+
+    border-radius: 15px;
+    border: none;
+
+}
+
+.table {
+
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+
+}
+
+.table th,
+.table td {
+
+    vertical-align: middle;
+
+}
+
+.btn {
+
+    margin-right: 5px;
+    border-radius: 8px;
+
+}
+
+.badge {
+
+    font-size: 14px;
+    padding: 8px 10px;
+
+}
+
+#title,
+#description {
+
+    border-radius: 10px;
+
+}
+
+h1,
+h2 {
+
+    color: white;
+
+}
+
+.typing {
+
+    font-weight: bold;
+
+}
+
+.table-responsive {
+
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+
+textarea {
+
+    resize: none;
+
+}
+
+@media(max-width:768px){
+
+    .btn{
+
+        margin-top: 10px;
+        width: 100%;
+
+    }
+
+}
